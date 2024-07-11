@@ -15,6 +15,7 @@
    - Communications
  - Contact Information
    - MidnightRose678@gmail.com
+   - Stare.5@wright.edu
    - 937-751-9887
 
 <!---
